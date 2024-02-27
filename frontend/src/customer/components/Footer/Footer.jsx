@@ -113,6 +113,15 @@ const Footer = () => {
             </Button>
           </div>
         </Grid>
+
+        <Grid className="pt-20" item xs={12}>
+          <Typography variant="body2" component="p" align="center">
+            &copy; 2024 Harshit Mishra. All Rights Reserved.
+          </Typography>
+          <Typography variant="body2" component="p" align="center">
+            Made by Harshit Mishra
+          </Typography>
+        </Grid>
       </Grid>
     </div>
   );
